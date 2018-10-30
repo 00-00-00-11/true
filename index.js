@@ -871,4 +871,4 @@ message.channel.stopTyping();
     }
 
 });
-discord.login("MzY2NjI4Mjk4NjEwMDQ5MDM0.DqmVeQ.XjAlUQlowVgDuT8NmiKw3U_g8Yw")
+discord.login("TOKEN")
